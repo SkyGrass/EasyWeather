@@ -1,0 +1,4 @@
+logic 业务逻辑层
+dao 存放数据数据访问对象
+model 对象模型
+network 网络请求
